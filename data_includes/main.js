@@ -466,7 +466,7 @@ newSelector()
 PennController("experiment" ,
 	    defaultText
 	        .print(),
-	       newText ("<p> Very well. Yes, the shadow belongs to a cow indeed. It could be one of the three cows you saw in the beginning.</p>")
+	       newText ("<p> Very well. Yes, the shadow belongs to a cow indeed. It is one of the three cows you saw in the beginning.</p>")
 	         ,         
 	     newImage ("threecows", "threecows.png")
                .print ()
@@ -1046,7 +1046,7 @@ newSelector()
 PennController("experiment" ,
 	    defaultText
 	        .print(),
-	       newText ("<p> Very well. Yes, the shadow belongs to a cat indeed. It could be one of the three cats you saw in the beginning.</p>")
+	       newText ("<p> Very well. Yes, the shadow belongs to a cat indeed. It is one of the three cats you saw in the beginning.</p>")
 	         ,         
 	     newImage ("threecats", "threecats.png")
                .print ()
@@ -1626,7 +1626,7 @@ newSelector()
 PennController("experiment" ,
 	    defaultText
 	        .print(),
-	       newText ("<p> Very well. Yes, the shadow belongs to a frog indeed. It could be one of the three frogs you saw in the beginning.</p>")
+	       newText ("<p> Very well. Yes, the shadow belongs to a frog indeed. It is one of the three frogs you saw in the beginning.</p>")
 	         ,         
 	     newImage ("threefrogs.png")
                .print ()
@@ -2210,7 +2210,7 @@ newSelector()
 PennController("experiment" ,
 	    defaultText
 	        .print(),
-	       newText ("<p> Very well. Yes, the shadow belongs to a dog indeed. It could be one of the three dogs you saw in the beginning.</p>")
+	       newText ("<p> Very well. Yes, the shadow belongs to a dog indeed. It is one of the three dogs you saw in the beginning.</p>")
 	         ,         
 	     newImage ("threedogs.png")
                .print ()
